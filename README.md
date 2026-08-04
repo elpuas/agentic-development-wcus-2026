@@ -21,7 +21,7 @@ This session explores how development teams can move beyond isolated prompts and
 - [Agents and Skills in the Gutenberg Project](https://developer.wordpress.org/block-editor/contributors/code/agents-and-skills/) - How WordPress organizes `AGENTS.md`, directory instructions, reusable skills, references, and progressive discovery.
 - [WordPress Agent Skills](https://github.com/WordPress/agent-skills) - Portable WordPress knowledge and workflows for AI coding assistants.
 - [Gutenberg AGENTS.md](https://github.com/WordPress/gutenberg/blob/trunk/AGENTS.md) - A real-world example of repository-level instructions in a large open-source project.
-- [Gutenberg Skills](https://github.com/WordPress/gutenberg/tree/trunk/skills) - Task-specific skills used by contributors working on Gutenberg.
+- [Gutenberg Skills](https://github.com/WordPress/gutenberg/blob/trunk/.agents/skills/testing/SKILL.md) - Task-specific skills used by contributors working on Gutenberg.
 
 ### Open Agent Standards
 
