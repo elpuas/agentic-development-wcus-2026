@@ -31,6 +31,10 @@ This session explores how development teams can move beyond isolated prompts and
 - [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro) - An open standard for connecting AI applications with external tools and systems.
 - [MCP Architecture](https://modelcontextprotocol.io/docs/learn/architecture) - An overview of MCP clients, servers, tools, resources, and prompts.
 
+### Emerging Standards
+
+- [Agent Plugins](https://agent-plugins.org/) — An emerging, vendor-neutral format for packaging Agent Skills and MCP servers so they can be reused across compatible AI agents. The 1.0 specification is currently a working draft.
+
 ### Research
 
 - [On the Impact of AGENTS.md Files on the Efficiency of AI Coding Agents](https://arxiv.org/abs/2601.20404) - An empirical study involving 10 repositories and 124 development tasks.
