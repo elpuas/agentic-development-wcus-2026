@@ -14,6 +14,11 @@ This session explores how development teams can move beyond isolated prompts and
 
 [Download the presentation as a PDF](./agentic-development-wcus-2026.pdf)
 
+
+## Demo repository:
+The example repo used in today’s agentic development demo, including the project instructions, reusable skills, and Gutenberg workflow.
+[GitHub repo](https://github.com/elpuas/wcus-agentic-demo)
+
 ## Resources
 
 ### WordPress and Agentic Development
